@@ -84,7 +84,6 @@
                     { name: "Coding", level: 85 },
                     { name: "Gaming", level: 80 },
                     { name: "Note", level: 75 },
-                    // { name: "SSH", level: 70 },
                     { name: "Docker", level: 15 },
                     { name: "Customization", level: 60 }
                 ],
@@ -93,7 +92,6 @@
                     { name: "Coding", level: 85 },
                     { name: "Gaming", level: 0 },
                     { name: "Note", level: 70 },
-                    // { name: "SSH", level: 60 },
                     { name: "Docker", level: 85 },
                     { name: "Customization", level: 85 }
                 ]
@@ -196,18 +194,17 @@
         align-items: stretch;
     }
     .charts-container {
-        /* flex: 1; */
         padding: 10px;
         float: left;
         width: 38%;
     }
     .skills-container {
-        /* flex: 2.5; */
         display: flex;
         padding: 10px;
         flex-wrap: wrap;
         justify-content: space-around;
         float: right;
+        width: 50%;
     }
     .skill {
         flex-basis: 45%;
@@ -219,6 +216,6 @@
     .skill-name {
         display: flex;
         align-items: center;
-        /* margin-bottom: 5px; */
+        margin-bottom: 7px;
     }
 </style>

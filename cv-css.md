@@ -34,20 +34,7 @@
 
 ## <i class="fa-solid fa-chart-column"></i> SKILLS
 
-- <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> Python
-- <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> R
-- <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star-half-stroke"></i> HTML
-- <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star-half-stroke"></i> CSS
-- <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i> JavaScript
-- <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i> MySQL
-
-## Skills
-
 <div class="row">
-    <div class="column left">
-        <p><i class="fa-brands fa-js"></i> JavaScript</p>
-        <canvas id="pie-chart" style="width: 400px; height: 400px;"></canvas>
-    </div>
     <div class="column left">
         <p><i class="fa-brands fa-python"></i> Python</p>
         <div class="container">
@@ -85,40 +72,6 @@
         </div>
     </div>
 </div>
-
-## OS 环
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
-<script>
-var ctx = document.getElementById('pie-chart').getContext('2d');
-var myChart = new Chart(ctx, {
-    type: 'pie',
-    data: {
-        labels: ['部分1', '部分2', '部分3'],
-        datasets: [{
-            data: [33.33, 33.33, 33.34],
-            backgroundColor: [
-                'red',
-                'blue',
-                'green'
-            ]
-        }]
-    },
-    options: {
-        responsive: false,
-        plugins: {
-            legend: {
-                position: 'top',
-            },
-            title: {
-                display: true,
-                text: '饼图示例'
-            }
-        }
-    }
-});
-</script>
-
 
 ## <i class="fa-brands fa-researchgate"></i> PEER-REVIEWED ARTICLES (Co-first author<sup>#</sup>)
 
@@ -188,31 +141,4 @@ var myChart = new Chart(ctx, {
 .php {width: 65%; background-color: #ECD0BB;}
 .vue {width: 60%; background-color: #D26E3A;}
 .sql {width: 60%; background-color: #929BAC;}
-/* 圆环 */
-.circle {
-    position: relative;
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    clip: rect(0, 200px, 200px, 100px);
-}
-.segment {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    border-radius: 50%;
-    clip: rect(0, 100px, 200px, 0);
-}
-.windows {
-    background-color: #EAB57F; /* Windows颜色 */
-    transform: rotate(0deg);
-}
-.linux {
-    background-color: #939249; /* Linux颜色 */
-    transform: rotate(120deg);
-}
-.macos {
-    background-color: #C24F1A; /* MacOS颜色 */
-    transform: rotate(240deg);
-}
 </style>
