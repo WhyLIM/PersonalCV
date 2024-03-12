@@ -95,14 +95,14 @@
 - **<u>Second Prize in the 2023 Guangdong Biomedical Big Data Analysis Community Innovation Competition - Guangdong Bioinformatics Society, Dec 2023</u>**
   Achieved ***Second Prize*** in the 2023 Guangdong Biomedical Big Data Analysis Community Innovation Competition.
 
-- **<u>Outstanding Volunteer of Suzhou City - Suzhou Volunteers Association, Sep 2019</u>**
-  Selected as ***“Outstanding Volunteer of Suzhou City”*** during the summer volunteer service event at Suzhou Railway Station in 2019.
+- **<u>Biotechnology Innovation and Practice - Cold Spring Harbor Asia, Nov 2020</u>**
+  For ***successfully completing the project “Biotechnology Innovation and Practice”*** hold by Cold Spring Harbor Asia.
 
 - **<u>Second Prize in the Huawei ICT Competition 2020 - HUAWEI, Oct 2020</u>**
   Achieved ***Second Prize*** in the Huawei China University Student ICT Competition 2020 Jiangsu Provincial Preliminary Contest (Undergraduate Cloud Track).
 
-- **<u>Biotechnology Innovation and Practice - Cold Spring Harbor Asia, Nov 2020</u>**
-  For ***successfully completing the project “Biotechnology Innovation and Practice”*** hold by Cold Spring Harbor Asia.
+- **<u>Outstanding Volunteer of Suzhou City - Suzhou Volunteers Association, Sep 2019</u>**
+  Selected as ***“Outstanding Volunteer of Suzhou City”*** during the summer volunteer service event at Suzhou Railway Station in 2019.
 
 <head>
   <link href="./fa/css/fontawesome.css" rel="stylesheet">
